@@ -25,7 +25,8 @@ li{
 /*    float: left;*/
 }
 p{
-/*    float: right;*/
+    width: 50%;
+    float: right;
 /*    display: inline-block;*/
 }
 #hello{
